@@ -9203,3 +9203,242 @@ INFO - 2020-03-25 20:32:09 --> Model "M_login" initialized
 INFO - 2020-03-25 20:32:09 --> File loaded: C:\xampp\htdocs\smk\application\views\v_login.php
 INFO - 2020-03-25 20:32:09 --> Final output sent to browser
 DEBUG - 2020-03-25 20:32:09 --> Total execution time: 0.6716
+INFO - 2020-03-25 22:32:06 --> Config Class Initialized
+INFO - 2020-03-25 22:32:06 --> Hooks Class Initialized
+DEBUG - 2020-03-25 22:32:06 --> UTF-8 Support Enabled
+INFO - 2020-03-25 22:32:06 --> Utf8 Class Initialized
+INFO - 2020-03-25 22:32:07 --> URI Class Initialized
+DEBUG - 2020-03-25 22:32:07 --> No URI present. Default controller set.
+INFO - 2020-03-25 22:32:07 --> Router Class Initialized
+INFO - 2020-03-25 22:32:07 --> Output Class Initialized
+INFO - 2020-03-25 22:32:07 --> Security Class Initialized
+DEBUG - 2020-03-25 22:32:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-25 22:32:07 --> Input Class Initialized
+INFO - 2020-03-25 22:32:07 --> Language Class Initialized
+INFO - 2020-03-25 22:32:07 --> Loader Class Initialized
+INFO - 2020-03-25 22:32:07 --> Helper loaded: url_helper
+INFO - 2020-03-25 22:32:07 --> Helper loaded: file_helper
+INFO - 2020-03-25 22:32:07 --> Helper loaded: form_helper
+INFO - 2020-03-25 22:32:07 --> Database Driver Class Initialized
+INFO - 2020-03-25 22:32:07 --> Session: Class initialized using 'database' driver.
+INFO - 2020-03-25 22:32:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-03-25 22:32:08 --> Pagination Class Initialized
+INFO - 2020-03-25 22:32:08 --> XML-RPC Class Initialized
+INFO - 2020-03-25 22:32:08 --> User Agent Class Initialized
+INFO - 2020-03-25 22:32:08 --> Controller Class Initialized
+INFO - 2020-03-25 22:32:08 --> Config Class Initialized
+INFO - 2020-03-25 22:32:08 --> Hooks Class Initialized
+DEBUG - 2020-03-25 22:32:08 --> UTF-8 Support Enabled
+INFO - 2020-03-25 22:32:08 --> Utf8 Class Initialized
+INFO - 2020-03-25 22:32:08 --> URI Class Initialized
+INFO - 2020-03-25 22:32:08 --> Router Class Initialized
+INFO - 2020-03-25 22:32:08 --> Output Class Initialized
+INFO - 2020-03-25 22:32:08 --> Security Class Initialized
+DEBUG - 2020-03-25 22:32:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-25 22:32:08 --> Input Class Initialized
+INFO - 2020-03-25 22:32:08 --> Language Class Initialized
+INFO - 2020-03-25 22:32:08 --> Loader Class Initialized
+INFO - 2020-03-25 22:32:08 --> Helper loaded: url_helper
+INFO - 2020-03-25 22:32:08 --> Helper loaded: file_helper
+INFO - 2020-03-25 22:32:08 --> Helper loaded: form_helper
+INFO - 2020-03-25 22:32:08 --> Database Driver Class Initialized
+INFO - 2020-03-25 22:32:08 --> Session: Class initialized using 'database' driver.
+INFO - 2020-03-25 22:32:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-03-25 22:32:08 --> Pagination Class Initialized
+INFO - 2020-03-25 22:32:08 --> XML-RPC Class Initialized
+INFO - 2020-03-25 22:32:08 --> User Agent Class Initialized
+INFO - 2020-03-25 22:32:08 --> Controller Class Initialized
+INFO - 2020-03-25 22:32:08 --> Model "M_login" initialized
+INFO - 2020-03-25 22:32:08 --> File loaded: C:\xampp\htdocs\smk\application\views\v_login.php
+INFO - 2020-03-25 22:32:08 --> Final output sent to browser
+DEBUG - 2020-03-25 22:32:08 --> Total execution time: 0.6119
+INFO - 2020-03-25 22:32:12 --> Config Class Initialized
+INFO - 2020-03-25 22:32:12 --> Hooks Class Initialized
+DEBUG - 2020-03-25 22:32:12 --> UTF-8 Support Enabled
+INFO - 2020-03-25 22:32:12 --> Utf8 Class Initialized
+INFO - 2020-03-25 22:32:12 --> URI Class Initialized
+INFO - 2020-03-25 22:32:12 --> Router Class Initialized
+INFO - 2020-03-25 22:32:12 --> Output Class Initialized
+INFO - 2020-03-25 22:32:12 --> Security Class Initialized
+DEBUG - 2020-03-25 22:32:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-25 22:32:12 --> Input Class Initialized
+INFO - 2020-03-25 22:32:12 --> Language Class Initialized
+INFO - 2020-03-25 22:32:12 --> Loader Class Initialized
+INFO - 2020-03-25 22:32:12 --> Helper loaded: url_helper
+INFO - 2020-03-25 22:32:12 --> Helper loaded: file_helper
+INFO - 2020-03-25 22:32:12 --> Helper loaded: form_helper
+INFO - 2020-03-25 22:32:12 --> Database Driver Class Initialized
+INFO - 2020-03-25 22:32:12 --> Session: Class initialized using 'database' driver.
+INFO - 2020-03-25 22:32:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-03-25 22:32:12 --> Pagination Class Initialized
+INFO - 2020-03-25 22:32:12 --> XML-RPC Class Initialized
+INFO - 2020-03-25 22:32:12 --> User Agent Class Initialized
+INFO - 2020-03-25 22:32:12 --> Controller Class Initialized
+INFO - 2020-03-25 22:32:12 --> Model "M_login" initialized
+INFO - 2020-03-25 22:32:12 --> Config Class Initialized
+INFO - 2020-03-25 22:32:12 --> Hooks Class Initialized
+DEBUG - 2020-03-25 22:32:12 --> UTF-8 Support Enabled
+INFO - 2020-03-25 22:32:12 --> Utf8 Class Initialized
+INFO - 2020-03-25 22:32:12 --> URI Class Initialized
+INFO - 2020-03-25 22:32:13 --> Router Class Initialized
+INFO - 2020-03-25 22:32:13 --> Output Class Initialized
+INFO - 2020-03-25 22:32:13 --> Security Class Initialized
+DEBUG - 2020-03-25 22:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-25 22:32:13 --> Input Class Initialized
+INFO - 2020-03-25 22:32:13 --> Language Class Initialized
+INFO - 2020-03-25 22:32:13 --> Loader Class Initialized
+INFO - 2020-03-25 22:32:13 --> Helper loaded: url_helper
+INFO - 2020-03-25 22:32:13 --> Helper loaded: file_helper
+INFO - 2020-03-25 22:32:13 --> Helper loaded: form_helper
+INFO - 2020-03-25 22:32:13 --> Database Driver Class Initialized
+INFO - 2020-03-25 22:32:13 --> Session: Class initialized using 'database' driver.
+INFO - 2020-03-25 22:32:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-03-25 22:32:13 --> Pagination Class Initialized
+INFO - 2020-03-25 22:32:13 --> XML-RPC Class Initialized
+INFO - 2020-03-25 22:32:13 --> User Agent Class Initialized
+INFO - 2020-03-25 22:32:13 --> Controller Class Initialized
+INFO - 2020-03-25 22:32:13 --> Model "M_pengunjung" initialized
+INFO - 2020-03-25 22:32:13 --> File loaded: C:\xampp\htdocs\smk\application\views\v_header.php
+INFO - 2020-03-25 22:32:13 --> File loaded: C:\xampp\htdocs\smk\application\views\v_dashboard.php
+INFO - 2020-03-25 22:32:13 --> Final output sent to browser
+DEBUG - 2020-03-25 22:32:13 --> Total execution time: 0.8271
+INFO - 2020-03-25 22:32:13 --> Config Class Initialized
+INFO - 2020-03-25 22:32:13 --> Config Class Initialized
+INFO - 2020-03-25 22:32:13 --> Config Class Initialized
+INFO - 2020-03-25 22:32:13 --> Hooks Class Initialized
+INFO - 2020-03-25 22:32:13 --> Hooks Class Initialized
+INFO - 2020-03-25 22:32:13 --> Hooks Class Initialized
+INFO - 2020-03-25 22:32:13 --> Config Class Initialized
+INFO - 2020-03-25 22:32:13 --> Hooks Class Initialized
+DEBUG - 2020-03-25 22:32:13 --> UTF-8 Support Enabled
+DEBUG - 2020-03-25 22:32:13 --> UTF-8 Support Enabled
+DEBUG - 2020-03-25 22:32:13 --> UTF-8 Support Enabled
+INFO - 2020-03-25 22:32:13 --> Utf8 Class Initialized
+INFO - 2020-03-25 22:32:13 --> Utf8 Class Initialized
+INFO - 2020-03-25 22:32:13 --> Utf8 Class Initialized
+DEBUG - 2020-03-25 22:32:13 --> UTF-8 Support Enabled
+INFO - 2020-03-25 22:32:13 --> Utf8 Class Initialized
+INFO - 2020-03-25 22:32:13 --> URI Class Initialized
+INFO - 2020-03-25 22:32:13 --> URI Class Initialized
+INFO - 2020-03-25 22:32:13 --> URI Class Initialized
+INFO - 2020-03-25 22:32:13 --> Router Class Initialized
+INFO - 2020-03-25 22:32:13 --> Router Class Initialized
+INFO - 2020-03-25 22:32:13 --> Router Class Initialized
+INFO - 2020-03-25 22:32:13 --> URI Class Initialized
+INFO - 2020-03-25 22:32:13 --> Router Class Initialized
+INFO - 2020-03-25 22:32:13 --> Output Class Initialized
+INFO - 2020-03-25 22:32:13 --> Output Class Initialized
+INFO - 2020-03-25 22:32:13 --> Output Class Initialized
+INFO - 2020-03-25 22:32:13 --> Security Class Initialized
+INFO - 2020-03-25 22:32:13 --> Output Class Initialized
+INFO - 2020-03-25 22:32:13 --> Security Class Initialized
+INFO - 2020-03-25 22:32:13 --> Security Class Initialized
+DEBUG - 2020-03-25 22:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-25 22:32:13 --> Security Class Initialized
+DEBUG - 2020-03-25 22:32:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-25 22:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-25 22:32:14 --> Input Class Initialized
+INFO - 2020-03-25 22:32:14 --> Input Class Initialized
+INFO - 2020-03-25 22:32:14 --> Input Class Initialized
+DEBUG - 2020-03-25 22:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-25 22:32:14 --> Input Class Initialized
+INFO - 2020-03-25 22:32:14 --> Language Class Initialized
+INFO - 2020-03-25 22:32:14 --> Language Class Initialized
+INFO - 2020-03-25 22:32:14 --> Language Class Initialized
+INFO - 2020-03-25 22:32:14 --> Language Class Initialized
+ERROR - 2020-03-25 22:32:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-03-25 22:32:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-03-25 22:32:14 --> 404 Page Not Found: Assets/plugins
+ERROR - 2020-03-25 22:32:14 --> 404 Page Not Found: Assets/plugins
+INFO - 2020-03-25 22:32:14 --> Config Class Initialized
+INFO - 2020-03-25 22:32:14 --> Hooks Class Initialized
+DEBUG - 2020-03-25 22:32:14 --> UTF-8 Support Enabled
+INFO - 2020-03-25 22:32:14 --> Utf8 Class Initialized
+INFO - 2020-03-25 22:32:14 --> URI Class Initialized
+INFO - 2020-03-25 22:32:14 --> Router Class Initialized
+INFO - 2020-03-25 22:32:14 --> Output Class Initialized
+INFO - 2020-03-25 22:32:14 --> Security Class Initialized
+DEBUG - 2020-03-25 22:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-25 22:32:14 --> Input Class Initialized
+INFO - 2020-03-25 22:32:14 --> Language Class Initialized
+ERROR - 2020-03-25 22:32:14 --> 404 Page Not Found: Assets/plugins
+INFO - 2020-03-25 22:32:14 --> Config Class Initialized
+INFO - 2020-03-25 22:32:14 --> Hooks Class Initialized
+DEBUG - 2020-03-25 22:32:14 --> UTF-8 Support Enabled
+INFO - 2020-03-25 22:32:14 --> Utf8 Class Initialized
+INFO - 2020-03-25 22:32:14 --> URI Class Initialized
+INFO - 2020-03-25 22:32:14 --> Router Class Initialized
+INFO - 2020-03-25 22:32:14 --> Output Class Initialized
+INFO - 2020-03-25 22:32:14 --> Security Class Initialized
+DEBUG - 2020-03-25 22:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-25 22:32:14 --> Input Class Initialized
+INFO - 2020-03-25 22:32:14 --> Language Class Initialized
+ERROR - 2020-03-25 22:32:14 --> 404 Page Not Found: Assets/plugins
+INFO - 2020-03-25 22:32:14 --> Config Class Initialized
+INFO - 2020-03-25 22:32:14 --> Hooks Class Initialized
+DEBUG - 2020-03-25 22:32:14 --> UTF-8 Support Enabled
+INFO - 2020-03-25 22:32:14 --> Utf8 Class Initialized
+INFO - 2020-03-25 22:32:14 --> URI Class Initialized
+INFO - 2020-03-25 22:32:14 --> Router Class Initialized
+INFO - 2020-03-25 22:32:14 --> Output Class Initialized
+INFO - 2020-03-25 22:32:14 --> Security Class Initialized
+DEBUG - 2020-03-25 22:32:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-25 22:32:15 --> Input Class Initialized
+INFO - 2020-03-25 22:32:15 --> Language Class Initialized
+ERROR - 2020-03-25 22:32:15 --> 404 Page Not Found: Assets/plugins
+INFO - 2020-03-25 22:32:15 --> Config Class Initialized
+INFO - 2020-03-25 22:32:15 --> Hooks Class Initialized
+DEBUG - 2020-03-25 22:32:15 --> UTF-8 Support Enabled
+INFO - 2020-03-25 22:32:15 --> Utf8 Class Initialized
+INFO - 2020-03-25 22:32:15 --> URI Class Initialized
+INFO - 2020-03-25 22:32:15 --> Router Class Initialized
+INFO - 2020-03-25 22:32:15 --> Output Class Initialized
+INFO - 2020-03-25 22:32:15 --> Security Class Initialized
+DEBUG - 2020-03-25 22:32:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-25 22:32:15 --> Input Class Initialized
+INFO - 2020-03-25 22:32:15 --> Language Class Initialized
+INFO - 2020-03-25 22:32:15 --> Loader Class Initialized
+INFO - 2020-03-25 22:32:15 --> Helper loaded: url_helper
+INFO - 2020-03-25 22:32:15 --> Helper loaded: file_helper
+INFO - 2020-03-25 22:32:15 --> Helper loaded: form_helper
+INFO - 2020-03-25 22:32:15 --> Database Driver Class Initialized
+INFO - 2020-03-25 22:32:15 --> Session: Class initialized using 'database' driver.
+INFO - 2020-03-25 22:32:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-03-25 22:32:15 --> Pagination Class Initialized
+INFO - 2020-03-25 22:32:15 --> XML-RPC Class Initialized
+INFO - 2020-03-25 22:32:15 --> User Agent Class Initialized
+INFO - 2020-03-25 22:32:15 --> Controller Class Initialized
+INFO - 2020-03-25 22:32:15 --> Model "M_agenda" initialized
+INFO - 2020-03-25 22:32:15 --> Upload Class Initialized
+INFO - 2020-03-25 22:32:16 --> File loaded: C:\xampp\htdocs\smk\application\views\v_header.php
+INFO - 2020-03-25 22:32:16 --> File loaded: C:\xampp\htdocs\smk\application\views\v_agenda.php
+INFO - 2020-03-25 22:32:16 --> Final output sent to browser
+DEBUG - 2020-03-25 22:32:16 --> Total execution time: 0.9889
+INFO - 2020-03-25 22:32:16 --> Config Class Initialized
+INFO - 2020-03-25 22:32:16 --> Hooks Class Initialized
+DEBUG - 2020-03-25 22:32:16 --> UTF-8 Support Enabled
+INFO - 2020-03-25 22:32:16 --> Utf8 Class Initialized
+INFO - 2020-03-25 22:32:16 --> URI Class Initialized
+INFO - 2020-03-25 22:32:16 --> Router Class Initialized
+INFO - 2020-03-25 22:32:16 --> Output Class Initialized
+INFO - 2020-03-25 22:32:16 --> Security Class Initialized
+DEBUG - 2020-03-25 22:32:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-25 22:32:16 --> Input Class Initialized
+INFO - 2020-03-25 22:32:16 --> Language Class Initialized
+INFO - 2020-03-25 22:32:16 --> Loader Class Initialized
+INFO - 2020-03-25 22:32:17 --> Helper loaded: url_helper
+INFO - 2020-03-25 22:32:17 --> Helper loaded: file_helper
+INFO - 2020-03-25 22:32:17 --> Helper loaded: form_helper
+INFO - 2020-03-25 22:32:17 --> Database Driver Class Initialized
+INFO - 2020-03-25 22:32:17 --> Session: Class initialized using 'database' driver.
+INFO - 2020-03-25 22:32:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-03-25 22:32:17 --> Pagination Class Initialized
+INFO - 2020-03-25 22:32:17 --> XML-RPC Class Initialized
+INFO - 2020-03-25 22:32:17 --> User Agent Class Initialized
+INFO - 2020-03-25 22:32:17 --> Controller Class Initialized
+INFO - 2020-03-25 22:32:17 --> Model "M_agenda" initialized
+INFO - 2020-03-25 22:32:17 --> Upload Class Initialized
+INFO - 2020-03-25 22:32:17 --> File loaded: C:\xampp\htdocs\smk\application\views\v_header.php
+INFO - 2020-03-25 22:32:17 --> File loaded: C:\xampp\htdocs\smk\application\views\v_agenda.php
+INFO - 2020-03-25 22:32:17 --> Final output sent to browser
+DEBUG - 2020-03-25 22:32:17 --> Total execution time: 0.6484
